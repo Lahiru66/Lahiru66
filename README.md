@@ -16,7 +16,6 @@
 👔 [linkedin][linkedin]
 
 
-[website]: https://bradgarropy.com
-[twitter]: https://twitter.com/bradgarropy
+[twitter]: https://twitter.com/LahiruKasun16
 [linkedin]: https://linkedin.com/in/lahiruk6
 
