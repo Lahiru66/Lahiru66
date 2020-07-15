@@ -11,8 +11,8 @@
 
 
 
-🐦 [twitter][twitter] **|**  
-👔 [linkedin][linkedin]
+🐦 [twitter][twitter] **|**  👔 [linkedin][linkedin]
+
 
 
 [twitter]: https://twitter.com/LahiruKasun16
