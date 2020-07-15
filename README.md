@@ -11,7 +11,6 @@
 
 
 
-🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|**  
 👔 [linkedin][linkedin]
 
