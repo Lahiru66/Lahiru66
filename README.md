@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Lahiru. 👋
 
-<!--
-**Lahiru66/Lahiru66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer and designer!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on My personal projects
+- 🌱 I’m currently learning AWS, NodeJs, MongoDB
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Angular, Full stack development and building cool stuffs
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|**  
+👔 [linkedin][linkedin]
+
+
+[website]: https://bradgarropy.com
+[twitter]: https://twitter.com/bradgarropy
+[linkedin]: https://linkedin.com/in/lahiruk6
+
