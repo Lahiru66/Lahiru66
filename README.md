@@ -16,7 +16,6 @@
 [twitter]: https://twitter.com/LahiruKasun16
 [linkedin]: https://linkedin.com/in/lahiruk6
 
-<br />
 
 ### Languages and Tools:
 
