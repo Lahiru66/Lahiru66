@@ -2,10 +2,10 @@
 
 ## I'm a Software Quality Engineer!
 
-- 🔭 I’m currently doing my internship
-- 🌱 I’m currently learning Spring Boot and MYSQL
+- 🔭 I’m currently working as Associate QA Engineer
+- 🌱 I’m currently learning Test Automation
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Java, Springboot, SQL and building cool stuffs
+- 💬 Ask me about Linux, Docker, SQL and building cool stuffs
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
