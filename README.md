@@ -1,6 +1,6 @@
 ### Hi, I'm Lahiru. 👋
 
-## I'm a Software Developer!
+## I'm a Quality Engineer!
 
 - 🔭 I’m currently doing my internship
 - 🌱 I’m currently learning Spring Boot and MYSQL
