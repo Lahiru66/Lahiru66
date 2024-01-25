@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as Associate QA Engineer
 - 🌱 I’m currently learning Test Automation
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Linux, Docker, SQL and building cool stuffs
+- 💬 Ask me about Linux, Docker, SQL and testing microservices
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
