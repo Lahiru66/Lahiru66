@@ -2,10 +2,9 @@
 
 ## I'm a Software Quality Engineer!
 
-- 🔭 I’m currently working as Associate QA Engineer
-- 🌱 I’m currently learning Test Automation
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about Linux, Docker, SQL and testing microservices
+- 🔭 I’m currently working as QA Engineer
+- 🌱 My main focus is towards Test Automation
+- 💬 Ask me about Java, Rest APIs, Docker, SQL and Microservices
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
