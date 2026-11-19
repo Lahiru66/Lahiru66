@@ -1,8 +1,8 @@
 ### Hi, I'm Lahiru. 👋
 
-## I'm a Software Quality Engineer!
+## I'm a Test Automation Engineer!
 
-- 🔭 I’m currently working as QA Engineer
+- 🔭 I’m currently working as Test Automation Engineer
 - 🌱 My main focus is towards Test Automation
 - 💬 Ask me about Java, Rest APIs, Docker, SQL and Microservices
 - 😄 Pronouns: he/him
